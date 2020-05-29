@@ -1,4 +1,4 @@
 # hello-world
-Just another repository \n
-Coding is life\n
+Just another repository 
+Coding is life
 Once you start, there is no looking back.
